@@ -1,11 +1,15 @@
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
 :heart: Programming 
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
   
-I am a First Year Computer Engineering Student at **MANIPAL UNIVERSITY, JAIPUR**. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
+I am a First Year Computer Science Engineering Student at **MANIPAL UNIVERSITY, JAIPUR**. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
 
 - 🌱 I’m currently learning Data Science | Full Stack Web development | App Development | NLP | Cyber Security
 - 💬 Ask me about anything. I will try to help you as much as I can.
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Quote: There is always time. You just have to find it.
 
 ## Social Hangouts 💬 -
