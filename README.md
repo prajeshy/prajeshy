@@ -16,9 +16,7 @@ I am a First Year Computer Engineering Student at **MANIPAL UNIVERSITY, JAIPUR**
   <a href="https://twitter.com/_prajeshy">
   <img align="left" alt="Prajesh Yeotikar| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="prajeshy1@gmail.com">
-  <img align="left" alt="Prajesh Yeotikar| Gmail" width="24px"   src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" />
-</a>
+- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prajeshy1@gmail.com)
 
 
   
