@@ -21,6 +21,7 @@ I am a First Year Computer Science Engineering Student at **MANIPAL UNIVERSITY, 
 </a>
 
 [![Email](https://img.shields.io/badge/prajeshy1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prajeshy1@gmail.com)
+[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
 
 
   
