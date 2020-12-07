@@ -7,7 +7,7 @@ Programming  is :heart:
   
 I am a First Year Computer Science Engineering Student at **MANIPAL UNIVERSITY, JAIPUR**. 
 - I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
-- From very early on in my life, I started to fall in **love with technology**  <img src="https://media.giphy.com/media/M7JsnhSOlAETu/giphy.gif" height="48px">
+- From very early on in my life, I started to fall in **love with technology**  <img src="https://media.giphy.com/media/xUPGGu9zmB3gYjxzdC/giphy-downsized.gif" height="29px">
 This love has helped me develop a very good technological mindset , and given me the curiosity to learn more. 
 - 🌱 I’m currently learning Cyber Security  | Full Stack Web development | NLP | App Development
 - 💬 Ask me about anything. I will try to help you as much as I can.
