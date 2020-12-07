@@ -13,7 +13,7 @@ This love has helped me develop a very good technological mindset , and given me
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px">
 - ⚡ Quote: There is always time. You just have to find it.
 
-## Social Hangouts 💬 -
+## Social Hangouts <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> -
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
