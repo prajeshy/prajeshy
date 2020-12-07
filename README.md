@@ -6,7 +6,8 @@
 
   
 I am a First Year Computer Science Engineering Student at **MANIPAL UNIVERSITY, JAIPUR**. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
-- From very early on in my life, I started to fall in **love with technology**  <div class="tenor-gif-embed" data-postid="17543228" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/fire-joypixels-on-fire-burning-fiery-gif-17543228">Fire Joypixels GIF</a> from <a href="https://tenor.com/search/fire-gifs">Fire GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>This love has helped me develop a very good technological mindset , and given me the curiosity to learn more. 
+- From very early on in my life, I started to fall in **love with technology**  <img align="right" alt="GIF" height="160px" src="https://media.tenor.com/images/b118382110824b5adae3c7892d6bf967/tenor.gif" />
+This love has helped me develop a very good technological mindset , and given me the curiosity to learn more. 
 - 🌱 I’m currently learning Data Science | Full Stack Web development | App Development | NLP | Cyber Security
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px">
