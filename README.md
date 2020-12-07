@@ -6,10 +6,10 @@
 
   
 I am a First Year Computer Science Engineering Student at **MANIPAL UNIVERSITY, JAIPUR**. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
-
+From very early on in my life, I started to fall in **love with technology**  This love has helped me develop a very good technological mindset , and given me the curiosity to learn more. 
 - 🌱 I’m currently learning Data Science | Full Stack Web development | App Development | NLP | Cyber Security
 - 💬 Ask me about anything. I will try to help you as much as I can.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px">
 - ⚡ Quote: There is always time. You just have to find it.
 
 ## Social Hangouts 💬 -
