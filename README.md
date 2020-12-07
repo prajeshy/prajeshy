@@ -14,9 +14,8 @@ I am a First Year Computer Science Engineering Student at **MANIPAL UNIVERSITY, 
 
 ## Social Hangouts 💬 -
 
-<a href="https://instagram.com/_prajeshy">
-  <img align="left" alt="Prajesh Yeotikar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
+[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
+
   <a href="https://twitter.com/_prajeshy">
   <img align="left" alt="Prajesh Yeotikar| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -39,5 +38,7 @@ I am a First Year Computer Science Engineering Student at **MANIPAL UNIVERSITY, 
 ![prajeshy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajeshy&hide=["stars"]&show_icons=true)
 
 -------
+[instagram]: https://www.instagram.com/_prajeshy
+
 
 ⭐️ From [@prajeshy](https://github.com/prajeshy)
