@@ -7,6 +7,21 @@ I am a First Year Computer Engineering Student at **MANIPAL UNIVERSITY, JAIPUR**
 - 🌱 I’m currently learning Data Science | Full Stack Web development | App Development | NLP | Cyber Security
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.
+
+## Social Hangouts 💬 -
+
+<a href="https://instagram.com/_prajeshy">
+  <img align="left" alt="Prajesh Yeotikar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="https://twitter.com/_prajeshy">
+  <img align="left" alt="Prajesh Yeotikar| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://gmail.com/prajeshy1@gmail.com">
+  <img align="left" alt="Prajesh Yeotikar| Gmail" width="24px"   src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" />
+</a>
+
+
+  
 ## Things that I execute in free time ⚡ -  
   - While Coding, Listening Music and developing useful code.⭐️
   - Just loved to Explore new Tech Stacks.💻
@@ -20,8 +35,5 @@ I am a First Year Computer Engineering Student at **MANIPAL UNIVERSITY, JAIPUR**
 ![prajeshy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajeshy&hide=["stars"]&show_icons=true)
 
 -------
-## Social Hangouts 💬 -
 
-<a href="https://instagram.com/_prajeshy">
-  <img align="left" alt="Prajesh Yeotikar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 ⭐️ From [@prajeshy](https://github.com/prajeshy)
