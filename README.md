@@ -18,7 +18,7 @@ I am a First Year Computer Engineering Student at **MANIPAL UNIVERSITY, JAIPUR**
 </a>
 
 
-- Email: [![Email](https://img.shields.io/badge/prajeshy1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prajeshy1@gmail.com)
+[![Email](https://img.shields.io/badge/prajeshy1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prajeshy1@gmail.com)
 
 
   
