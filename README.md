@@ -14,6 +14,9 @@ I am a First Year Computer Science Engineering Student at **MANIPAL UNIVERSITY, 
 
 ## Social Hangouts 💬 -
 
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
+
 [<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
 
   <a href="https://twitter.com/_prajeshy">
