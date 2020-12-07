@@ -39,7 +39,7 @@ I am a First Year Computer Science Engineering Student at **MANIPAL UNIVERSITY, 
 
 -------
 [instagram]: https://www.instagram.com/_prajeshy
-[linkedin]: https://www.linkedin.com/in/_prajeshy/
+[linkedin]: https://www.linkedin.com/in/prajesh-yeotikar-a7830a1b8/
 
 
 ⭐️ From [@prajeshy](https://github.com/prajeshy)
