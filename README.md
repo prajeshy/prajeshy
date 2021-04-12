@@ -43,7 +43,7 @@ This love has helped me develop a very good technological mindset , and given me
 ![prajeshy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajeshy&hide=["stars"]&show_icons=true)
 
 -------
-[instagram]: https://www.instagram.com/_prajeshy
+[instagram]: https://www.instagram.com/prajesh_y
 [linkedin]: https://www.linkedin.com/in/prajesh-yeotikar-a7830a1b8/
 
 
